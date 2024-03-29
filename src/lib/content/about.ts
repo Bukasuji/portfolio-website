@@ -9,11 +9,9 @@ export const aboutSection: AboutSectionType = {
     items: [
         'NextJs',
         'TailwindCSS',
-        'ExpressJs',
-        'Unit Testing',
         'TypeScript',
         'CSS Animations',
     ],
     },
-    img: '/vatsal-singh.jpg',
+    img: '/ebuka.jpeg',
 };

@@ -24,24 +24,8 @@ const About = () => {
       <main className="flex flex-col items-center gap-16 lg:items-start lg:flex-row">
         <div className="space-y-4 lg:w-3/5">
           <p>
-            Hi, my name is Vatsal Singh, an artist as well as crazy full stack
-            web developer who wants to explore every tech stack.
-          </p>
-          <p>
-            Fast-forward to today, and I’ve had the privilege of working at a
-            start-up -{' '}
-            <Link
-              href="https://www.pixelwand.live/"
-              target="_blank"
-              className="text-accent"
-            >
-              Pixelwand
-            </Link>
-            .
-          </p>
-          <p>
-            My main focus these days is learning mobile development and finding
-            a decent job.
+            Hi, my name is Chukwuebuka Osuji, a front-end developer passionate about building
+            accessible web and mobile apps that users love.
           </p>
 
           {list && (

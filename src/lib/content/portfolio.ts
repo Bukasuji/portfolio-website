@@ -7,33 +7,33 @@
 import { StringKeyValueType } from '../types';
 
 export const socialLinks: StringKeyValueType = {
-  facebook: 'https://www.facebook.com/vatsalsinghkv',
-  instagram: 'https://www.instagram.com/vatsalsinghkv',
-  twitter: 'https://twitter.com/vatsalsinghkv',
-  github: 'https://github.com/vatsalsinghkv',
+  facebook: '',
+  instagram: '',
+  twitter: 'https://twitter.com/osujichukwuebuk',
+  github: 'https://github.com/bukasuji',
   linkedin: 'https://www.linkedin.com/in/vatsalsinghkv/',
 };
 
 export const author = {
-  name: 'Vatsal Singh',
-  email: 'vatsalsinghkv@gmail.com',
+  name: 'Chukwuebuka Osuji',
+  email: 'chukwuebukaosuji@gmail.com',
 };
 
 export const seoData = {
-  title: 'Vatsal Singh | Front-End Developer',
+  title: 'Chukwuebuka Osuji | Front-End Developer',
   description:
-    'Vatsal Singh is a front-end developer who specializes in building (and occasionally designing) exceptional visual interfaces.',
+    'Chukwuebuka Osuji is a front-end developer who specializes in building (and occasionally designing) exceptional visual interfaces.',
   author: author.name,
   image:
-    'https://user-images.githubusercontent.com/68834718/217467445-0b0d2d63-f8ad-4702-8474-814eb2cbb3be.png',
+    '/ebuka.jpeg',
   url: 'https://vatsalsinghkv.vercel.app/',
   keywords: [
-    'Vatsal',
-    'Vatsal Singh',
-    '@vatsalsinghkv',
-    'vatsalsinghkv',
+    'Chukwuebuka',
+    'Chukwuebuka Osuji',
+    '@chukwuebka',
+    'vchukwuebuka',
     'Portfolio',
-    'Vatsal Portfolio ',
-    'Vatsal Singh Portfolio',
+    'Osuji Portfolio ',
+    'Chukwuebuka OsuhiPortfolio',
   ],
 };
